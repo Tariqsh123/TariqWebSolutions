@@ -6,7 +6,7 @@ const WebHeader = () => {
   return (
     <div id="web-header-main" style={{ fontFamily: 'Poppins, sans-serif' }}>
       <div id="web-header-second" style={{ padding: '0' }}>
-        <Row gutter={[40, 40]} align="middle" justify="center">
+        <Row gutter={[40, 40]} align="middle" justify="center" >
           {/* Left Section */}
           <Col xs={24} md={12}>
             <h1 style={{ 
